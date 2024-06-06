@@ -115,7 +115,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #fdda43;
+  background: #fff;
+  color: #010e1b;
 }
 
 @media (max-width: 992px) {
