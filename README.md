@@ -1,1 +1,1 @@
-This is my portfolio.
+Thanks a lot for visiting my profile.
